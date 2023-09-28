@@ -39,7 +39,7 @@ public class SampleDataUtil {
                 new Address("Blk 47 Tampines Street 20, #17-35"), new Remark("Likes Subway"),
                 getTagSet("classmates")),
             new Person(new Name("Roy Balakrishnan"), new Phone("92624417"), new Email("royb@example.com"),
-                new Address("Blk 45 Aljunied Street 85, #11-31"), new Remark ("Likes Long John Silvers"),
+                new Address("Blk 45 Aljunied Street 85, #11-31"), new Remark("Likes Long John Silvers"),
                 getTagSet("colleagues"))
         };
     }
